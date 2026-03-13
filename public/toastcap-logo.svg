@@ -1,0 +1,5 @@
+<svg width="200" height="50" viewBox="0 0 200 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M8 38V18C8 10 14 4 24 4C34 4 40 10 40 18V38C40 42 37 44 34 44H14C11 44 8 42 8 38Z" stroke="#FF6B35" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M14 12C14 12 18 8 24 8C30 8 34 12 34 12" stroke="#FF6B35" stroke-width="3" stroke-linecap="round"/>
+  <text x="50" y="35" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="700" fill="#FF6B35">ToastCap</text>
+</svg>
